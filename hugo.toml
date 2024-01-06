@@ -1,0 +1,4 @@
+baseURL = 'https://transformingthevalley.org/'
+languageCode = 'en-us'
+title = 'TRANSforming The Valley'
+theme = 'ananke'
