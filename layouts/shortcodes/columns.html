@@ -5,9 +5,9 @@
 {{- end }}
 
 <!-- Based on geekdoc columns Need to get the CSS figured out for it Might need to add here directly???-->
-<div class="gdoc-columns gdoc-columns--{{ $size }} flex flex-gap flex-mobile-column">
+<div class="columns columns--{{ $size }} flex flex-gap flex-mobile-column measure-extra-wide">
   {{- range split .Inner "<--->" }}
-    <div class="gdoc-columns__content gdoc-markdown--nested flex-even">
+    <div class="columns__content flex-even">
       {{ . | $.Page.RenderString -}}
     </div>
   {{- end }}
