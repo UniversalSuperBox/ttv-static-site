@@ -43,3 +43,6 @@ Chippewa Falls, WI, 54729 [(map)](http://maps.google.com/?q=116%20North%20Bridge
 Online - Check our private [facebook group](https://www.facebook.com/transformingthevalley/) or [discord](https://discord.com/invite/rGCcCxknfH) for the link!
 
 {{</ columns >}}
+
+# Contact Us
+Email us at [chair@transformingthevalley.org](mailto:chair@transformingthevalley.org)
