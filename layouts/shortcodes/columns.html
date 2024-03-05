@@ -4,8 +4,8 @@
   {{- $size = "regular" }}
 {{- end }}
 
-<!-- Based on geekdoc columns Need to get the CSS figured out for it Might need to add here directly???-->
-<div class="columns columns--{{ $size }} flex flex-gap flex-mobile-column measure-extra-wide">
+<!-- Based on geekdoc columns -->
+<div class="columns columns--{{ $size }} flex flex-gap center flex-mobile-column">
   {{- range split .Inner "<--->" }}
     <div class="columns__content flex-even">
       {{ . | $.Page.RenderString -}}

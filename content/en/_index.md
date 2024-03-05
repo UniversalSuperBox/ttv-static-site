@@ -3,6 +3,7 @@ title: "TRANSforming The Valley"
 menus:
     main:
         name: Home
+        weight: 1
 
 theme_version: '2.8.2'
 cascade:
@@ -11,38 +12,31 @@ cascade:
 
 Transforming the Valley is a volunteer organization working to provide support and resources for anyone under the transgender or gender non-conforming umbrella (including non-binary, gender fluid, intersex, etc.), in the Chippewa Valley (WI).
 
-[Help Support Our Mission]({{< ref "/mission" >}})
+***
 
-# Support Groups
-
-We host Support Groups both Virtually and in person on the First and Third Wednesday of the month.
-
-Groups are open to Anyone who identifies as part of the transgender or gender-nonconforming community, and parents and care-givers as appropriate.
-
+# Programs and Events
 {{< columns >}}
-## In Person Support Group
 
-1st Wednesday of the month
+## Support Groups
+We host suports groups both in person and virtually on the *First* and *Third* Wednesday of each month.
 
-6pm - 7pm
-
-String Theory Studio
-
-116 North Bridge Street
-
-Chippewa Falls, WI, 54729 [(map)](http://maps.google.com/?q=116%20North%20Bridge%20Street%20Chippewa%20Falls,%20WI,%2054729%20United%20States)
+**[Current Schedule]({{< ref "/supportgroups" >}})**
 
 <---> 
 
-## Virtual Support Group
+## Community Closet
+Our next closet is March 23 & 24.
 
-3rd Wednesday of the month
+We're looking for [Volunteers](https://signup.com/go/HLwipmC)!
 
-6pm - 7pm
-
-Online - Check our private [facebook group](https://www.facebook.com/transformingthevalley/) or [discord](https://discord.com/invite/rGCcCxknfH) for the link!
+**[More Information]({{< ref "/closet" >}})**
 
 {{</ columns >}}
+
+# Donate
+Interested in donating to help us with our programming, and providing services and support?
+
+**[Donate](https://checkout.square.site/merchant/35WWYBEKZMMWZ/checkout/DAH2KNE4IYD3NA3PS747J5GS)**
 
 # Contact Us
 Email us at [chair@transformingthevalley.org](mailto:chair@transformingthevalley.org)
