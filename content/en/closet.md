@@ -12,8 +12,8 @@ Open to anyone within the LGBTQIA2S+ Community, come shop our selection of free 
 
 ## Featuring
 
- * A sign up for **FREE** gender-affirming undergarmets (gaffs and binders) provided through Transforming the Valley.
- * Prom Closet! Come get your formal wear for Prom this year from us in a safe environemtn
+ * A sign up for **FREE** gender-affirming undergarments (gaffs and binders) provided through Transforming the Valley.
+ * Prom Closet! Come get your formal wear for Prom this year from us in a safe environment
 
 ## When
 - Saturday, March 23: 3 PM to 6 PM
