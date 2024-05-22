@@ -5,19 +5,16 @@ menus:
         name: Community Closet
 ---
 
-![Queer Community Closet](/images/march-community-closet-flyer.png)
-
-Join us for our Spring 2024 Community Closet!
-Open to anyone within the LGBTQIA2S+ Community, come shop our selection of free clothing, supplies, and accessories!
+# New Dates coming soon! Watch this page for updates!
 
 ## Featuring
-
+ * A wide variety of clothing and accessories
+ * FREE for anyone who identies as a member of the LBGTQIA2S+ community
  * A sign up for **FREE** gender-affirming undergarments (gaffs and binders) provided through Transforming the Valley.
- * Prom Closet! Come get your formal wear for Prom this year from us in a safe environment
+
 
 ## When
-- Saturday, March 23: 3 PM to 6 PM
-- Sunday, March 24: 10 AM to 1 PM
+New dates being announced soon
 
 ## Where
 String Theory Studio
@@ -32,5 +29,3 @@ We need people interested in:
 - Setup Saturday morning before the event
 - Tear down and packing up Sunday afternoon
 - Assistance with shopping  during the event.
-
- **[Sign up to volunteer](https://signup.com/go/HLwipmC)**

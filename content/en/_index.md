@@ -25,9 +25,9 @@ We host suports groups both in person and virtually on the *First* and *Third* W
 <---> 
 
 ## Community Closet
-Our next closet is March 23 & 24.
+Featuring a wide variety of clothing and accessories FREE for anyone who identies as a member of the LBGTQIA2S+ community
 
-We're looking for [Volunteers](https://signup.com/go/HLwipmC)!
+**New Dates coming soon**
 
 **[More Information]({{< ref "/closet" >}})**
 
