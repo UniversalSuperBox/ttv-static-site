@@ -27,7 +27,7 @@ We host support groups in person on the first Wednesday of the month and virtual
 ## Community Closet
 Featuring a wide variety of clothing and accessories FREE for anyone who identies as a member of the LBGTQIA2S+ community
 
-**New Dates coming soon**
+Next Event: February 15, 2025
 
 **[More Information]({{< ref "/closet" >}})**
 
