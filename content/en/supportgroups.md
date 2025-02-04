@@ -6,9 +6,9 @@ menus:
         weight: 2
 ---
 
-We host Support Groups both Virtually and in person on the First and Third Wednesday of the month.
+We host support groups in person on the first Wednesday of the month and virtually on the third Wednesday of the month.
 
-Groups are open to Anyone who identifies as part of the transgender or gender-nonconforming community, and parents and care-givers as appropriate.
+Groups are open to anyone who identifies as part of the transgender or gender-nonconforming community, and parents and care-givers as appropriate.
 
 {{< columns >}}
 ## In Person Support Group

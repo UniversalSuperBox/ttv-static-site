@@ -18,9 +18,9 @@ Transforming the Valley is a volunteer organization working to provide support a
 {{< columns >}}
 
 ## Support Groups
-We host suports groups both in person and virtually on the *First* and *Third* Wednesday of each month.
+We host support groups in person on the first Wednesday of the month and virtually on the third Wednesday of the month.
 
-**[Current Schedule]({{< ref "/supportgroups" >}})**
+**[Current Schedule and locations]({{< ref "/supportgroups" >}})**
 
 <---> 
 
