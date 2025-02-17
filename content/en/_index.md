@@ -15,14 +15,11 @@ Transforming the Valley is a volunteer organization working to provide support a
 ***
 
 # Programs and Events
-{{< columns >}}
 
 ## Support Groups
 We host support groups in person on the first Wednesday of the month and virtually on the third Wednesday of the month.
 
 **[Current Schedule and locations]({{< ref "/supportgroups" >}})**
-
-<---> 
 
 ## Community Closet
 Featuring a wide variety of clothing and accessories FREE for anyone who identies as a member of the LBGTQIA2S+ community
@@ -30,8 +27,6 @@ Featuring a wide variety of clothing and accessories FREE for anyone who identie
 Next Event: February 15, 2025
 
 **[More Information]({{< ref "/closet" >}})**
-
-{{</ columns >}}
 
 # Donate
 Interested in donating to help us with our programming, and providing services and support?

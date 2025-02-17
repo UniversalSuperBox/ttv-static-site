@@ -10,7 +10,6 @@ We host support groups in person on the first Wednesday of the month and virtual
 
 Groups are open to anyone who identifies as part of the transgender or gender-nonconforming community, and parents and care-givers as appropriate.
 
-{{< columns >}}
 ## In Person Support Group
 
 1st Wednesday of the month
@@ -23,8 +22,6 @@ Chippewa Valley LGBTQ+ Community Center
 
 Eau Claire, WI 54701 [(map)](https://maps.app.goo.gl/zoNEWcVmjLNJXSQZ7)
 
-<--->
-
 ## Virtual Support Group
 
 3rd Wednesday of the month
@@ -32,5 +29,3 @@ Eau Claire, WI 54701 [(map)](https://maps.app.goo.gl/zoNEWcVmjLNJXSQZ7)
 6pm - 7pm
 
 Online in Discord: [discord](https://discord.com/invite/rGCcCxknfH)
-
-{{</ columns >}}
