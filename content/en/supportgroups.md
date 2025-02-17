@@ -17,13 +17,13 @@ Groups are open to anyone who identifies as part of the transgender or gender-no
 
 6pm - 7pm
 
-String Theory Studio
+Chippewa Valley LGBTQ+ Community Center
 
-116 North Bridge Street
+505 S Dewey St Suite 204
 
-Chippewa Falls, WI, 54729 [(map)](http://maps.google.com/?q=116%20North%20Bridge%20Street%20Chippewa%20Falls,%20WI,%2054729%20United%20States)
+Eau Claire, WI 54701 [(map)](https://maps.app.goo.gl/zoNEWcVmjLNJXSQZ7)
 
-<---> 
+<--->
 
 ## Virtual Support Group
 
