@@ -18,7 +18,9 @@ Future events are announced on this page, on the CV-LGBTQ Community Center's Dis
 
 ## Where
 String Theory Studio
+
 116 N Bridge St.
+
 Chippewa Falls, WI
 
 ## Volunteer
