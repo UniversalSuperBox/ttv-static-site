@@ -12,7 +12,7 @@ This event and the articles you take home are provided free of charge for anyone
 We have a wide variety of masculine and feminine clothing and accessories curated by TRANSforming the Valley volunteers.
 
 ## When
-February 15, 2025, 1PM - 6PM
+No events are currently scheduled. Our most recent event was February 15, 2025.
 
 Future events are announced on this page, on the CV-LGBTQ Community Center's Discord server, and other CV-LGBTQ channels.
 
