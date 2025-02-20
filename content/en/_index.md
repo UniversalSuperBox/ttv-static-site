@@ -10,7 +10,7 @@ cascade:
   featured_image: '/images/ttv-facebook-banner.jpg'
 ---
 
-Transforming the Valley is a volunteer organization working to provide support and resources for anyone under the transgender or gender non-conforming umbrella (including non-binary, gender fluid, intersex, etc.), in the Chippewa Valley (WI).
+Transforming the Valley is a program of Chippewa Valley LGBTQ+ Community Center (CVLGBTQ+) working to provide support and resources for anyone under the transgender or gender non-conforming umbrella (including non-binary, gender fluid, intersex, etc.), in the Chippewa Valley (WI).
 
 ***
 
