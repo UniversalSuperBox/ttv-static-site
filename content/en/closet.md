@@ -12,7 +12,12 @@ This event and the articles you take home are provided free of charge for anyone
 We have a wide variety of masculine and feminine clothing and accessories curated by TRANSforming the Valley volunteers.
 
 ## When
-No events are currently scheduled. Our most recent event was February 15, 2025.
+
+Our next event is scheduled for May 3rd and 4th, 2025.
+
+On May 3, the event runs from 12PM noon to 7PM.
+
+On May 4, the event runs from 10AM until 2PM.
 
 Future events are announced on this page, on the CVLGBTQ Community Center's Discord server, and other CVLGBTQ channels.
 
@@ -28,12 +33,21 @@ Chippewa Falls, WI
 Interested in volunteering?
 
 We need people interested in:
-- Setup Saturday morning (10 AM - 1PM)
-- Teardown Saturday afternoon (6PM - finished)
-- Assistance with shopping during the event (1PM - 6PM)
 
-Please use [our sign-up form](https://signup.com/go/JZVAVab) to register your interest.
+- Saturday
+    - Setup (10 AM - 2PM)
+    - Assisting shoppers (2PM - 7PM)
+- Sunday
+    - Event reset (9AM - 10AM)
+    - Assisting shoppers (10AM - 2PM)
+    - Cleaning up (2PM - 4PM)
+
+Please use [our sign-up form](https://signup.com/go/TWLyFMc) to register your interest.
 
 ## Donate
 
-Thank you to our community members who have donated articles to the program. We are not accepting new clothing or accessory donations, but please check back later. Monetary donations to the [CVLGBTQ+ Community Center](https://www.cvlgbt.org/) are graciously appreciated but never required.
+Thank you to our community members who have donated articles to the program. We are not accepting new clothing or accessory donations, but please check back later. Monetary donations to the [CVLGBTQ+ Community Center](https://checkout.square.site/merchant/35WWYBEKZMMWZ/checkout/DAH2KNE4IYD3NA3PS747J5GS) are graciously appreciated but never required.
+
+## Past Events
+
+Feburary 15, 2025
