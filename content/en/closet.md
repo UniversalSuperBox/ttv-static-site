@@ -15,7 +15,7 @@ We have a wide variety of masculine and feminine clothing and accessories curate
 
 Our next event is scheduled for May 3rd and 4th, 2025.
 
-On May 3, the event runs from 12PM noon to 7PM.
+On May 3, the event runs from 2PM to 7PM.
 
 On May 4, the event runs from 10AM until 2PM.
 
