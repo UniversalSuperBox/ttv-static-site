@@ -14,7 +14,7 @@ Groups are open to anyone who identifies as part of the transgender or gender-no
 
 1st Wednesday of the month
 
-6pm - 7pm
+6pm - 8pm
 
 Chippewa Valley LGBTQ+ Community Center
 
@@ -26,6 +26,6 @@ Eau Claire, WI 54701 [(map)](https://maps.app.goo.gl/zoNEWcVmjLNJXSQZ7)
 
 3rd Wednesday of the month
 
-6pm - 7pm
+6pm - 8pm
 
 Online in Discord: [discord](https://discord.com/invite/rGCcCxknfH)

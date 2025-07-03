@@ -5,7 +5,6 @@ menus:
         name: Home
         weight: 1
 
-theme_version: '2.8.2'
 cascade:
   featured_image: '/images/ttv-facebook-banner.jpg'
 ---
@@ -21,10 +20,10 @@ We host support groups in person on the first Wednesday of the month and virtual
 
 **[Current Schedule and locations]({{< ref "/supportgroups" >}})**
 
-## Community Closet
-Featuring a wide variety of clothing and accessories FREE for anyone who identies as a member of the LBGTQIA2S+ community
+## Free and Queer Clothing Closet
+Provides a wide selection of clothing, accessories, and personal care items at no cost for anyone who identies as a member of the LBGTQIA2S+ community
 
-Next Event: May 3rd and 4th, 2025
+Next Event: August 2nd and 3rd, 2025
 
 **[More Information]({{< ref "/closet" >}})**
 

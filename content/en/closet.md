@@ -9,15 +9,15 @@ TRANSforming the valley invites you to our Trans & Queer Community Closet event,
 
 This event and the articles you take home are provided free of charge for anyone who identifies as a member of the LBGTQIA2S+ community. Monetary donations to the [CVLGBTQ+ Community Center](https://www.cvlgbt.org/) are graciously appreciated but never required.
 
-We have a wide variety of masculine and feminine clothing and accessories curated by TRANSforming the Valley volunteers.
+We have a wide variety of masculine and feminine clothing and accessories curated by TRANSforming the Valley volunteers. A selection of personal care products are also available.
 
 ## When
 
-Our next event is scheduled for May 3rd and 4th, 2025.
+Our next event is scheduled for August 2nd and 3rd, 2025.
 
-On May 3, the event runs from 2PM to 7PM.
+On August 2, the event runs from 2PM to 7PM.
 
-On May 4, the event runs from 10AM until 2PM.
+On August 3, the event runs from 10AM until 2PM.
 
 Future events are announced on this page, on the CVLGBTQ Community Center's Discord server, and other CVLGBTQ channels.
 
@@ -42,7 +42,7 @@ We need people interested in:
     - Assisting shoppers (10AM - 2PM)
     - Cleaning up (2PM - 4PM)
 
-Please use [our sign-up form](https://signup.com/go/TWLyFMc) to register your interest.
+Please use [our sign-up form](https://signup.com/go/EtgkCpk) to register your interest.
 
 ## Donate
 
@@ -51,3 +51,4 @@ Thank you to our community members who have donated articles to the program. We 
 ## Past Events
 
 Feburary 15, 2025
+May 3rd and 4th, 2025

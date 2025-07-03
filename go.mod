@@ -1,5 +1,5 @@
-module github.com/britsknits/ttv-static-site
+module github.com/universalsuperbox/ttv-static-site
 
-go 1.22.2
+go 1.24.0
 
-require github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20241018002841-8e1a6dc21313 // indirect
+require github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.1 // indirect
