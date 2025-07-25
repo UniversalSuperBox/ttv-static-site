@@ -26,7 +26,7 @@ String Theory Studio
 
 116 N Bridge St.
 
-Chippewa Falls, WI
+Chippewa Falls, WI 54729
 
 ## Volunteer
 
@@ -46,9 +46,9 @@ Please use [our sign-up form](https://signup.com/go/EtgkCpk) to register your in
 
 ## Donate
 
-Thank you to our community members who have donated articles to the program. We are not accepting new clothing or accessory donations, but please check back later. Monetary donations to the [CVLGBTQ+ Community Center](https://checkout.square.site/merchant/35WWYBEKZMMWZ/checkout/DAH2KNE4IYD3NA3PS747J5GS) are graciously appreciated but never required.
+Thank you to our community members who have donated articles to the program. We are not accepting new clothing or accessory donations, but please check back later. Monetary donations to the [CVLGBTQ+ Community Center](https://checkout.square.site/buy/7CFF5FKZIG6HL5AHZXTOZU6K) are graciously appreciated but never required.
 
 ## Past Events
 
-Feburary 15, 2025
-May 3rd and 4th, 2025
+* Feburary 15, 2025
+* May 3rd and 4th, 2025

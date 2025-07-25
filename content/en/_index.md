@@ -30,7 +30,7 @@ Next Event: August 2nd and 3rd, 2025
 # Donate
 Interested in donating to help us with our programming, and providing services and support?
 
-**[Donate](https://checkout.square.site/merchant/35WWYBEKZMMWZ/checkout/DAH2KNE4IYD3NA3PS747J5GS)**
+**[Donate](https://checkout.square.site/buy/7CFF5FKZIG6HL5AHZXTOZU6K)**
 
 # Contact Us
 Email us at [chair@transformingthevalley.org](mailto:chair@transformingthevalley.org)
