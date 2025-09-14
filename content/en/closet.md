@@ -15,9 +15,9 @@ We have a wide variety of masculine and feminine clothing and accessories curate
 
 Our next event is scheduled for November 8th and 9th, 2025.
 
-On August 8, the event runs from 2PM to 7PM.
+On November 8, the event runs from 2PM to 7PM.
 
-On August 9, the event runs from 10AM until 2PM.
+On November 9, the event runs from 10AM until 2PM.
 
 Future events are announced on this page, on the CVLGBTQ Community Center's Discord server, and other CVLGBTQ channels.
 
