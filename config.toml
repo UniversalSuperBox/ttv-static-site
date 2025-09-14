@@ -10,6 +10,9 @@ pagination.pagerSize = 3 # this is set low for demonstrating with dummy content.
 googleAnalytics = ""
 enableRobotsTXT = true
 
+[services.googleAnalytics]
+id = ''
+
 [module]
 [[module.imports]]
 disable = false
