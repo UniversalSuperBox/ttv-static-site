@@ -42,16 +42,16 @@ We need people interested in:
     - Assisting shoppers (10AM - 2PM)
     - Cleaning up (2PM - 4PM)
 
-Sign-up for volunteers will be available soon.
+Please use [our sign-up form](https://signup.com/go/HavoJqJ) to register your interest.
 
 ## Donate
 
-We are accepting donations of lightly used clothing, lightly used accessories, unused cosmetics, and unused toiletries. We will make donation guidelines available here soon.
+We are accepting donations of lightly used clothing, lightly used accessories, unused cosmetics, and unused toiletries. Check out [our clothing donation guidelines]({{< ref "/donations#closet-donations" >}}) to learn more!
 
 Monetary donations to the [CVLGBTQ+ Community Center](https://checkout.square.site/buy/7CFF5FKZIG6HL5AHZXTOZU6K) are graciously appreciated but never required.
 
 ## Past Events
 
-* Feburary 15, 2025
+* February 15, 2025
 * May 3rd and 4th, 2025
 * August 2nd and 3rd, 2025
