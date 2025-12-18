@@ -15,6 +15,8 @@ Monetary donations given via this link are placed in the CVLGBTQ+ general fund f
 
 ## Closet Donations
 
+**We are not currently accepting clothing donations.** However, we have left our donation guidelines on this page for when we are accepting new donations again.
+
 The [Free & Queer Community Closet](https://transformingthevalley.org/closet/) relies on community donations for its continued success. We help people of all shapes and sizes be confident in their desired presentation, so we need a diverse selection of articles available. These guidelines can help you select and organize your donation to make the most impact.
 
 ### What We Do With Your Donation
@@ -99,7 +101,9 @@ Unopened hypoallergenic cosmetics are practically worth their weight in gold to 
 
 ### How to Donate
 
-Donations are accepted at [the Chippewa Valley LGBTQ+ Community Center](https://www.cvlgbt.org/) during drop-in hours which are listed on our linked homepage. If you need to schedule an alternative time for donations, or you have other questions, please use the contact information on [cvlgbt.org](https://www.cvlgbt.org/).
+**We are not currently accepting clothing donations.** However, we have left our donation guidelines on this page for when we are accepting new donations again.
+
+<!-- Donations are accepted at [the Chippewa Valley LGBTQ+ Community Center](https://www.cvlgbt.org/) during drop-in hours which are listed on our linked homepage. If you need to schedule an alternative time for donations, or you have other questions, please use the contact information on [cvlgbt.org](https://www.cvlgbt.org/). -->
 
 While your donated articles are made available at no charge to our clients, the fair-market value of the goods still apply for the donation. All donations are eligible for a written donation receipt. We are required to provide a receipt if the fair-market value of the entire donation is at or above $200. To assess the fair-market value of your donation, you can use a value guide such as [Hope Village Gems’](https://www.hopevillagems.org/how-can-you-help/thrift-store/donation-value-guide/) or [Goodwill of Northern New England's](https://goodwillnne.org/donate/donation-value-guide/). For other questions on the value of your donation, please consult a tax professional who can provide better guidance for your situation.
 

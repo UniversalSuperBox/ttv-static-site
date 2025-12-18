@@ -46,9 +46,9 @@ Please use [our sign-up form](https://signup.com/go/HavoJqJ) to register your in
 
 ## Donate
 
-We are accepting donations of lightly used clothing, lightly used accessories, unused cosmetics, and unused toiletries. Check out [our clothing donation guidelines]({{< ref "/donations#closet-donations" >}}) to learn more!
-
 Monetary donations to the [CVLGBTQ+ Community Center](https://checkout.square.site/buy/7CFF5FKZIG6HL5AHZXTOZU6K) are graciously appreciated but never required.
+
+We are not currently accepting donations of clothing or accessories. Thank you for your generosity.
 
 ## Past Events
 
