@@ -27,9 +27,7 @@ Our final event at String Theory is scheduled for January 24th and 25th, 2026.
 
 On January 24, the event runs from 2PM to 7PM.
 
-On January 25, the event runs from 10AM until 2PM.
-
-We will pack up the Closet's stock and transport it elsewhere after the event concludes. We will need additional volunteer help in Chippewa Falls and again in Eau Claire to move the stock to and from the truck.
+On January 25, we are moving the Closet's stock to a storage unit in Eau Claire to get ready for its new adventures.
 
 ## Where
 String Theory Studio
@@ -48,9 +46,8 @@ We need people interested in:
     - Setup (10 AM - 2PM)
     - Assisting shoppers (2PM - 7PM)
 - Sunday
-    - Event reset (9AM - 10AM)
-    - Assisting shoppers (10AM - 2PM)
-    - Cleaning up (2PM - 4PM)
+    - Packing up at String Theory (10AM - 2PM)
+    - Unpacking at storage unit (3PM - 6PM)
 
 Please use [our sign-up form](https://signup.com/go/wcwHNTa) to register your interest.
 

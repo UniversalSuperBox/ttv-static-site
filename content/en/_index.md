@@ -23,7 +23,7 @@ We host support groups in person on the first Wednesday of the month and virtual
 ## Free and Queer Clothing Closet
 Provides a wide selection of clothing, accessories, and personal care items at no cost for anyone who identifies as a member of the LGBTQ+ community
 
-Final Event at String Theory: January 24th and 25th, 2026
+Final Event at String Theory: January 24th, 2026. We also need help moving the Closet's stock from Chippewa Falls to Eau Claire on January 25, 2026.
 
 **[More Information]({{< ref "/closet" >}})**
 
